@@ -2,7 +2,7 @@ Author: Zitao Xuan
 
 Contact: shxuanzitao@gmail.com
 
-仅供学习交流使用，部分实现参考开源博客。源代码开源，作者保留对论文和相关实验图片的知识产权。
+仅供学习交流使用，部分实现参考开源博客。
 
 ## 测试环境
 
